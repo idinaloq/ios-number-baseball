@@ -7,6 +7,7 @@
 
 
 ### 팀원
+<<<<<<< HEAD
 |idinaloq|
 |------|
 |![스크린샷 2023-04-24 오후 4 47 09](https://user-images.githubusercontent.com/124647187/235142373-a36360bb-88cd-4bb1-a287-b23b658e5700.png)|
@@ -45,6 +46,10 @@
 
 
 <br>
+=======
+- Erick
+- idinaloq
+>>>>>>> origin/main
 
 ## Flow Chart
 
@@ -58,19 +63,26 @@
 
 <img width="387" alt="스크린샷 2023-04-28 오후 5 20 41" src="https://user-images.githubusercontent.com/109963294/235095123-7dabef4b-4472-42ed-99e2-63bdffdfdbcc.png">
 
+<<<<<<< HEAD
 - 처음 실행을 하면 메뉴가 출력됩니다.
 - 1을 입력하면 게임을 시작하고, 2를 입력하면 게임을 종료합니다.
 
+=======
+>>>>>>> origin/main
 ### 사용자의 승리
 
 <img width="387" alt="스크린샷 2023-04-28 오후 5 21 52" src="https://user-images.githubusercontent.com/109963294/235095443-54122a82-a877-491c-99d1-796da5ece470.png">
 
+<<<<<<< HEAD
 - 조건에 맞게 숫자를 입력하고, 시도 횟수가 다 끝나기 전에 입력한 숫자와 랜덤숫자가 일치하는 경우 사용자가 승리합니다.
 
+=======
+>>>>>>> origin/main
 ### 컴퓨터의 승리
 
 <img width="387" alt="스크린샷 2023-04-28 오후 5 23 35" src="https://user-images.githubusercontent.com/109963294/235095590-f3deebfb-88cf-4202-aabb-58848d519303.png">
 
+<<<<<<< HEAD
 - 조건에 맞게 숫자를 입력하고, 시도 횟수가 다 끝날 때까지 사용자가 승리하지 못한다면 컴퓨터가 승리합니다.
 
 <br>
@@ -104,6 +116,11 @@
 <br>
 
 ## 팀 프로젝트 회고
+=======
+<br>
+
+# 팀 프로젝트 회고
+>>>>>>> origin/main
 
 ## 참여자
 - Erick
@@ -133,4 +150,8 @@
 
 - https://velog.io/@folw159/Swift-components와-split의-차이
 - https://developer.apple.com/documentation/swift/set
+<<<<<<< HEAD
 - https://velog.io/@lhj26/Swift-if-vs-if-let-vs-guard-let
+=======
+- https://velog.io/@lhj26/Swift-if-vs-if-let-vs-guard-let
+>>>>>>> origin/main
