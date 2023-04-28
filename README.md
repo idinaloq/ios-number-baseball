@@ -46,9 +46,6 @@
 
 
 <br>
-=======
-- Erick
-- idinaloq
 
 
 ## Flow Chart
@@ -63,11 +60,9 @@
 
 <img width="387" alt="스크린샷 2023-04-28 오후 5 20 41" src="https://user-images.githubusercontent.com/109963294/235095123-7dabef4b-4472-42ed-99e2-63bdffdfdbcc.png">
 
-<<<<<<< HEAD
 - 처음 실행을 하면 메뉴가 출력됩니다.
 - 1을 입력하면 게임을 시작하고, 2를 입력하면 게임을 종료합니다.
 
-=======
 
 ### 사용자의 승리
 
@@ -76,7 +71,6 @@
 
 - 조건에 맞게 숫자를 입력하고, 시도 횟수가 다 끝나기 전에 입력한 숫자와 랜덤숫자가 일치하는 경우 사용자가 승리합니다.
 
-=======
 
 ### 컴퓨터의 승리
 
@@ -115,12 +109,7 @@
 
 <br>
 
-## 팀 프로젝트 회고
-=======
-<br>
-
 # 팀 프로젝트 회고
->>>>>>> origin/main
 
 ## 참여자
 - Erick
@@ -150,8 +139,5 @@
 
 - https://velog.io/@folw159/Swift-components와-split의-차이
 - https://developer.apple.com/documentation/swift/set
-<<<<<<< HEAD
 - https://velog.io/@lhj26/Swift-if-vs-if-let-vs-guard-let
-=======
 - https://velog.io/@lhj26/Swift-if-vs-if-let-vs-guard-let
->>>>>>> origin/main
